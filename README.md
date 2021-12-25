@@ -1,3 +1,8 @@
+![Image]("https://storage.googleapis.com/kaggle-datasets-images/29/33/default-backgrounds/dataset-thumbnail.jpg")
+# Climate Change: Earth Surface Temperature Data
+## Exploring global temperatures since 1750
+Last Updated: 5 years ago (Version 2)
+
 About this Dataset
 Some say climate change is the biggest threat of our age while others say it’s a myth based on dodgy science. We are turning some of the data over to you so you can form your own view.
 
@@ -28,4 +33,4 @@ Global Average Land Temperature by Country (GlobalLandTemperaturesByCountry.csv)
 Global Average Land Temperature by State (GlobalLandTemperaturesByState.csv)
 Global Land Temperatures By Major City (GlobalLandTemperaturesByMajorCity.csv)
 Global Land Temperatures By City (GlobalLandTemperaturesByCity.csv)
-The raw data comes from the Berkeley Earth data page.
+The raw data comes from the [Berkeley Earth data page](http://berkeleyearth.org/data/).
