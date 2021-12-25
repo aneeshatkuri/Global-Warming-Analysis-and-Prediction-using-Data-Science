@@ -1,4 +1,3 @@
-![Image]("https://storage.googleapis.com/kaggle-datasets-images/29/33/default-backgrounds/dataset-thumbnail.jpg")
 # Climate Change: Earth Surface Temperature Data
 ## Exploring global temperatures since 1750
 Last Updated: 5 years ago (Version 2)
@@ -6,7 +5,7 @@ Last Updated: 5 years ago (Version 2)
 About this Dataset
 Some say climate change is the biggest threat of our age while others say it’s a myth based on dodgy science. We are turning some of the data over to you so you can form your own view.
 
-us-climate-change
+[us-climate-change](https://www.kaggle.com/jagelves/continental-us-climate-change-1850-2013?scriptVersionId=0)
 
 Even more than with other data sets that Kaggle has featured, there’s a huge amount of data cleaning and preparation that goes into putting together a long-time study of climate trends. Early data was collected by technicians using mercury thermometers, where any variation in the visit time impacted measurements. In the 1940s, the construction of airports caused many weather stations to be moved. In the 1980s, there was a move to electronic thermometers that are said to have a cooling bias.
 
